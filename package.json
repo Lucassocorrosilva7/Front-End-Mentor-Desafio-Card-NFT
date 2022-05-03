@@ -1,0 +1,12 @@
+{
+  "name": "desafio-nft-preview-card-component-main",
+  "version": "1.0.0",
+  "description": "ntf-preview-card",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/styles.css -w"
+  },
+  "author": "Lucas Silva",
+  "license": "ISC"
+}
